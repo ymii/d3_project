@@ -2,19 +2,19 @@
   {
     "id":1,
     "name":"london",
-    "img-src":"https://avatars.githubusercontent.com/u/1?v=4",
+    "img":"https://avatars.githubusercontent.com/u/1?v=4",
     "link":"https://github.com/mojombo"
   },
   {
     "id":2,
     "name":"tokyo",
-    "img-src":"https://avatars.githubusercontent.com/u/2?v=4",
+    "img":"https://avatars.githubusercontent.com/u/2?v=4",
     "link":"https://github.com/defunkt"
   },
   {
     "id":3,
     "name":"paris",
-    "img-src":"https://avatars.githubusercontent.com/u/3?v=4",
+    "img":"https://avatars.githubusercontent.com/u/3?v=4",
     "link":"https://github.com/pjhyett"
   }
 ]
