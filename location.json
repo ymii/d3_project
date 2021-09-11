@@ -1,1 +1,11 @@
-
+[
+  {
+    "id":1,
+    "name":"london"
+  },
+  {
+    "id":2,
+    "name":"tokyo"
+  }
+]
+  
